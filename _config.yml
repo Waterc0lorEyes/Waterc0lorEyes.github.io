@@ -1,0 +1,26 @@
+title: 杨亚晴的翻译博客
+subtitle: '河北师范大学 翻译（中外合作办学）2023级'
+description: '杨亚晴的翻译学习与作业展示博客，记录笔译、英译汉、汉译英等课程作业与翻译反思。'
+keywords: '翻译,笔译,英译汉,汉译英,河北师范大学,斯特灵大学'
+author: 杨亚晴
+language: zh-CN
+timezone: 'Asia/Shanghai'
+
+url: https://waterc0loreyes.github.io
+root: /
+permalink: :year/:month/:day/:title/
+permalink_defaults:
+pretty_urls:
+  trailing_index: true
+  trailing_html: true
+
+theme: warmpaper
+
+highlight:
+  enable: true
+  line_number: true
+  auto_detect: false
+  tab_replace: ''
+
+deploy:
+  type: ''
