@@ -1,5 +1,5 @@
 ---
-title: 从Renaissance到Rejuvenation——东西方文明复兴话语的语义辨析 From Renaissance to Rejuvenation: A Semantic Analysis
+title: '从Renaissance到Rejuvenation——东西方文明复兴话语的语义辨析 From Renaissance to Rejuvenation: A Semantic Analysis'
 date: 2025-01-05 08:00:00
 tags:
   - 翻译
